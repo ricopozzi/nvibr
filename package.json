@@ -1,0 +1,16 @@
+{
+  "name": "brnvi",
+  "version": "1.0.0",
+  "description": "NVI PT-BR Bible",
+  "main": "dist/src/index.js",
+  "types":"dist/src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Enrico Pozzi",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
