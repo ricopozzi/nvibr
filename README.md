@@ -11,11 +11,8 @@
 
 ## Start
 
-```jsx
-    // Acessar métodos através de methods.FUNCAO
-    import methods from "nvibr"
-    // OU
-    import { METHOD HERE } from "nvibr"
+```js
+import methods from "nvibr"
 ```
  ## Como usar
 

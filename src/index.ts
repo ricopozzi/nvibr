@@ -1,5 +1,4 @@
-import methods, { findAllBooks } from "./controllers/controller"
+import methods from "./controllers/controller"
 
-console.log(findAllBooks())
 
 export default methods 
