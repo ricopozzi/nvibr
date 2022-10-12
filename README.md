@@ -31,3 +31,5 @@ import methods from "nvibr"
 `findChapter(bookName: string, chapter: number)` - Recebe como argumento o nome do livro e o número do capítulo e retorna o capítulo.
 
 `findVerse(bookName: string, chapter: number, verse: number)` - Recebe como argumento o nome do livro, o número do capítulo e o número do verso e retorna o verso.
+
+## God bless you all
